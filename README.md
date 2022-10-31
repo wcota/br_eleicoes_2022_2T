@@ -15,3 +15,7 @@ Os dados municipais foram extraídos e convertidos do JSON da página no G1: <ht
 Os dados são públicos, do TSE. Use como, onde, e quando quiser.
 
 Peço apenas que referencie o repositório principalmente para os mapas e gráficos gerados.
+
+## Dados mais completos
+
+Acesse o portal de dados abertos do TSE: <https://dadosabertos.tse.jus.br/dataset/>
